@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <name>Demo Parser</name>
+    <topic>
+            <name>About Java</name>
+        <tutorial>OOP Concept</tutorial>
+        <tutorial>Java Data</tutorial>
+        <tutorial>String Manipulation</tutorial>
+        </topic>
+        <topic>
+
+    </topic>
+</channel>
+
